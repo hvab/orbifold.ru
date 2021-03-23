@@ -1,0 +1,11 @@
+{
+  "name": "orbifold.ru",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "static-server"
+  },
+  "devDependencies": {
+    "static-server": "^2.2.1"
+  }
+}
